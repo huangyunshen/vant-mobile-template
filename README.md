@@ -1,4 +1,4 @@
-# mill-rental
+# 基于vant的移动端模板框架
 
 ## Project setup
 ```
